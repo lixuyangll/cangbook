@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7828124",
+      "name": "读书历史",
+      "font_class": "dushulishi",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "7998475",
+      "name": "首页-选中",
+      "font_class": "firstpage1",
+      "unicode": "e515",
+      "unicode_decimal": 58645
+    },
+    {
+      "icon_id": "15296335",
+      "name": "书",
+      "font_class": "shu1",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "19129263",
+      "name": "我 的",
+      "font_class": "wode",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    }
+  ]
+}
